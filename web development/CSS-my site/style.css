@@ -49,8 +49,16 @@ h2{
     padding: 0 4px;
 }
 .skill-column  img{
-    margin-top: 8px;
-    vertical-align: middle;
     height: 200px;
     width: 200px;
+    margin: auto 20px auto 20px;
+}
+.skill-column div{
+    float: left;
+    vertical-align: middle;
+}
+.skill-column h3{
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: normal;
+    font-style: italic;
 }
