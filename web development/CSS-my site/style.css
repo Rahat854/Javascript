@@ -56,6 +56,7 @@ h2{
 .skill-column div{
     float: left;
     vertical-align: middle;
+    align-content: flex-start;
 }
 .skill-column h3{
     font-family: 'Titillium Web', sans-serif;
